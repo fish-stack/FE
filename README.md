@@ -1,6 +1,6 @@
 # 前端技术博客
 
-这个仓库存放了前端开发相关的技术博客，具体博客都放在了[wiki](https://github.com/web-full-stack/front-end/wiki)里面。
+这个仓库存放了前端开发相关的技术博客，具体博客都放在了[issues](https://github.com/web-full-stack/FrontendRoad/issues)里面。
 
 它们是无序的，可以随机阅读，然后欢迎star。
 
